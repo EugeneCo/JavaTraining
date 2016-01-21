@@ -1,0 +1,7 @@
+2016-01-21 13:58:59.720 GMT : Apache Derby Network Server - 10.5.3.0 - (802917) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+2016-01-21 13:59:40.256 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance a816c00e-0152-647b-2b2b-00003f7cda8a
+on database directory C:\JavaEEWorkspace\Databases\MyDatabase  
+
+Database Class Loader started - derby.database.classpath=''
